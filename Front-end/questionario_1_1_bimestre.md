@@ -4,7 +4,7 @@
 
 2.  **Linguagem de Programação:** Cite uma linguagem de programação de back-end comumente utilizada em conjunto com **HTML**, **CSS** e **JavaScript** para criar aplicações web completas. Uma linguagem de programação de back-end comumente utilizada junto com HTML, CSS e JavaScript para criar aplicações web completas é o JavaScript (Node.js).
 
-3.  **HTML:** Qual o principal objetivo do **HTML**? Qual a diferença entre uma tag `<h1>` e `<h6>`? HTML serve para estruturar o conteúdo de páginas web. A tag <h1> é um título principal (maior e mais importante), e a <h6>?
+3.  **HTML:** Qual o principal objetivo do **HTML**? Qual a diferença entre uma tag `<h1>` e `<h6>`? HTML serve para estruturar o conteúdo de páginas web. A tag <h1> é um título principal (maior e mais importante)
 4.  **CSS:** Como o **CSS** contribui para o desenvolvimento web? Qual a função da propriedade `margin`? CSS deixa a página bonita e organizada.
 A margin cria espaço externo entre os elementos.
 
