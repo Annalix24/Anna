@@ -5,7 +5,6 @@
 2.  **Linguagem de Programação:** Cite uma linguagem de programação de back-end comumente utilizada em conjunto com **HTML**, **CSS** e **JavaScript** para criar aplicações web completas. Uma linguagem de programação de back-end comumente utilizada junto com HTML, CSS e JavaScript para criar aplicações web completas é o JavaScript (Node.js).
 
 3. HTML: Qual o principal objetivo do HTML? Qual a diferença entre uma tag <h1> e <h6>?
-
 4. CSS: Como o CSS contribui para o desenvolvimento web? 
 
 5.  **JavaScript:** Qual a função do **JavaScript** em uma página web? Qual a diferença entre `let`, `const` e `var`? JavaScript torna a página interativa.
